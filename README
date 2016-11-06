@@ -1,0 +1,5 @@
+This project is intended to show how to create a simple Web Service application.
+
+To run the project just do an npm install & npm start.
+
+http://localhost:3000/
